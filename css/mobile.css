@@ -1,0 +1,24 @@
+#navbar ul li a {
+    padding: 0.3rem;
+}
+
+.ph {
+    width: 100%;
+    padding: 20px;
+    margin-top: 10px;
+    height: 200px;
+}
+
+.ph2 {
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    height: 185px;
+}
+
+.harita {
+    width: 280px;
+    padding: 20px;
+    margin-top: 10px;
+    height: 280px;
+}
