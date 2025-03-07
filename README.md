@@ -1,3 +1,16 @@
-# enginvr
+# EnginVR - İlk Web Projem
 
-HTML ve CSS kullandığım ilk Web Projesi
+Bu proje, HTML ve CSS kullanarak oluşturduğum ilk web sitesidir. Web geliştirme becerilerimi geliştirmek ve temel konseptleri uygulamak amacıyla hazırlanmıştır.
+
+## İçerik
+
+- **Anasayfa**: Şirketin genel tanıtımı ve sunduğu hizmetlere genel bakış.
+- **Hizmetlerimiz**: Şirketin sunduğu hizmetlerin detaylı açıklamaları.
+- **Kurumsal**: Şirketin misyonu, vizyonu ve değerleri hakkında bilgi.
+- **Kariyer**: Şirket bünyesinde kariyer fırsatları ve başvuru süreçleri.
+- **İletişim**: Şirketle iletişime geçmek için gerekli bilgiler ve iletişim formu.
+
+## Kullanılan Teknolojiler
+
+- **HTML5**: Sayfa yapısını oluşturmak için kullanıldı.
+- **CSS3**: Sayfa stil ve düzenlemeleri için kullanıldı.
