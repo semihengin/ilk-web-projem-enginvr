@@ -1,6 +1,6 @@
 # EnginVR - İlk Web Projem
 
-Bu proje, HTML ve CSS kullanarak oluşturduğum ilk web sitesidir. Web geliştirme becerilerimi geliştirmek ve temel konseptleri uygulamak amacıyla hazırlanmıştır.
+Bu proje, HTML ve CSS kullanarak oluşturduğum ilk web sitesidir. Üniversite 1. sınıfta geliştirdiğim ilk projemdir. Web geliştirme becerilerimi geliştirmek ve temel konseptleri uygulamak amacıyla hazırlanmıştır.
 
 ## İçerik
 
